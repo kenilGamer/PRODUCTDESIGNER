@@ -19,7 +19,7 @@ html,body{
     position: absolute;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(to right bottom,#001,#001,#022);
+    background: linear-gradient(to right bottom,rgb(255, 0, 0),rgb(6, 180, 180));
     background-size: cover;
     background-position: center;
     background-clip: content-box;
